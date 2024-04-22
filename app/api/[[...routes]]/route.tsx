@@ -56,7 +56,7 @@ app.frame('/', (c) => {
             padding: '0 120px',
             whiteSpace: 'pre-wrap',
           }}
-        > NASA Pic of the Day
+        > 🛰️ NASA Pic of the Day 🌌
         </div>
       </div>
     ),
